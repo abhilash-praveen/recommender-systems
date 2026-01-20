@@ -20,3 +20,6 @@ Content-based movie recommendation using TF-IDF on movie overviews (TMDB metadat
 ## Datasets
 - Movie datasets: `movies.csv`, `ratings.csv`, `tmdb_5000_movies.csv`, `tmdb_5000_credits.csv`
 - Book dataset: Book-Crossing dataset (BX-Books.csv, BX-Users.csv, BX-Book-Ratings.csv) (download separately)
+
+## References
+https://github.com/krishnaik06/Recommendation_complete_tutorial
